@@ -1,0 +1,8 @@
+{
+  "name": "Activa Pilot",
+  "description": "Live tracking, speedometer, AI fuel meter & mileage analytics for Honda Activa (WB 06 K5136)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
